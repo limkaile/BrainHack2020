@@ -13,6 +13,7 @@ requirements are combined for both required task
 There's 2 main components:
   1. Image recognition (CV)  
   2. Natural Language Processing (NLP)  
+  
 Work within the folder for the component you are on
 
 **Additional:**  
