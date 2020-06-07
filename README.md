@@ -8,8 +8,6 @@ Work within the folder for the component you are on.
 
 More information are in the notebook, either you can create new ones (by naming it as submission +1) or clone the files, as we want to keep track of previous submussion to track what have we done.  
 
-Submission at 
-
 **Additional:**  
 CV - Computer Vision  
 NLP - Natural Language Processing
@@ -37,3 +35,6 @@ may see live scoring and leaderboard for the NLP component.
 2. We will be providing word embeddings (instead of text), which is intended to save effort
 on data pre-processing. This also means that you may not need to source for open
 datasets for the NLP component.
+
+
+__Submission format (.json) stated in the kaggle website__
