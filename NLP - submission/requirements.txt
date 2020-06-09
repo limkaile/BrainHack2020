@@ -2,7 +2,6 @@ pandas
 sklearn
 nltk
 keras
-pickle
 tensorflow
 numpy
 spacy
